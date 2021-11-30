@@ -1,2 +1,2 @@
 # Google-Android
-This Repository stores the downloaded source of google's android
+This Repository stores sandroid OS down to the core. 
